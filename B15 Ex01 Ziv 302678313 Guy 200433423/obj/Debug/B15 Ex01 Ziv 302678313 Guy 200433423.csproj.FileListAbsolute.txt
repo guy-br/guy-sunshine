@@ -1,0 +1,22 @@
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.csprojResolveAssemblyReference.cache
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.Properties.Resources.resources
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.csproj.GenerateResource.Cache
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.exe
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.pdb
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\Facebook.dll
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\FbGraphApiWrapper.dll
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.exe
+c:\users\guybr\documents\visual studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.pdb
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.exe
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.pdb
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.exe
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.pdb
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\Facebook.dll
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.csprojResolveAssemblyReference.cache
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.Properties.Resources.resources
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15 Ex01 Ziv 302678313 Guy 200433423.csproj.GenerateResource.Cache
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.FormFaceBookApp.resources
+C:\Users\Ziv\Documents\Visual Studio 2013\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.FormGroupDetails.resources
+C:\Users\guybr\Documents\Visual Studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.FormFaceBookApp.resources
+C:\Users\guybr\Documents\Visual Studio 2012\Projects\B15 Ex01 Ziv 302678313 Guy 200433423\B15 Ex01 Ziv 302678313 Guy 200433423\obj\Debug\B15_Ex01_Ziv_302678313_Guy_200433423.FormGroupDetails.resources
